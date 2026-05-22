@@ -50,8 +50,7 @@ This privacy policy may be updated from time to time. Changes will be announced 
 
 For questions regarding the privacy policy, please open an **Issue** on GitHub:
 
-[[https://github.com/yukselacikgoz/seriport/issues](https://github.com/yukselacikgoz/seriport-privacy/tree/main)]([https://github.com/yukselacikgoz/seriport/issues](https://github.com/yukselacikgoz/seriport-privacy/tree/main))
-
+(https://github.com/yukselacikgoz/seriport-privacy/tree/main)
 ---
 
 *This policy is prepared in Turkish and is subject to the laws of the Republic of Turkey.*
@@ -110,7 +109,7 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfa �
 
 Gizlilik politikasıyla ilgili sorularınız için lütfen GitHub üzerinden bir **Issue** açınız:
 
-[[https://github.com/yukselacikgoz/seriport/issues](https://github.com/yukselacikgoz/seriport-privacy/tree/main)]([https://github.com/yukselacikgoz/seriport/issues](https://github.com/yukselacikgoz/seriport-privacy/tree/main))
+(https://github.com/yukselacikgoz/seriport-privacy/tree/main)
 
 ---
 
