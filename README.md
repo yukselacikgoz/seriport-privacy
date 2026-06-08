@@ -53,10 +53,6 @@ For questions regarding the privacy policy, please open an **Issue** on GitHub:
 yukselacikgoz@hotmail.com
 ---
 
-*This policy is prepared in Turkish and is subject to the laws of the Republic of Turkey.*
-
-
-
 # Turkish:
 
 # Gizlilik Politikası – Seriport
@@ -112,5 +108,3 @@ Gizlilik politikasıyla ilgili sorularınız için lütfen GitHub üzerinden bir
 yukselacikgoz@hotmail.com
 
 ---
-
-*Bu politika Türkçe olarak hazırlanmıştır ve Türkiye Cumhuriyeti kanunları kapsamında geçerlidir.*
