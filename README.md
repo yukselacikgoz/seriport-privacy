@@ -1,4 +1,4 @@
-# seriport-privacy
+# Seriport — Gizlilik Politikası / Privacy Policy
 
 # Privacy Policy – ​​Seriport
 
